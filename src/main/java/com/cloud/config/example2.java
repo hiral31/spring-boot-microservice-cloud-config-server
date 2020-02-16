@@ -1,9 +1,6 @@
 package com.cloud.config;
 
-/**
-* class example
-*/
-public class example {
+public class example2 {
 
 	public static void main(String a[]) {
 	
